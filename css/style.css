@@ -39,9 +39,9 @@ body > main {
 
 /* Lista de noticias */
 
-ul.lista-noticias {
-  list-style: none;
-}
+h2 {color: steelblue;border-bottom: solid;
+  border-color: steelblue;
+  border-width: 2px; margin: 10px;}
 
 ul.lista-noticias li {
   margin-bottom: 1.5rem;
